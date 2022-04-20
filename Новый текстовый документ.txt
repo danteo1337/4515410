@@ -1,0 +1,48 @@
+ a = input("Введите 3 числа через пробел: ").split() 
+ mul = 1
+ avg = 0
+ sum = 0
+ for i in a:mul = mul * float(i) avg += int(i) sum += int(i)
+ print(mul, avg/3 ,sum)
+ 
+""
+
+a = float(input("Введите 1 координату: "))
+a = float(input("Введите2 координату: "))
+if a1 > a:print(f'dlinnaotrezka:{a1-a}')
+elif a > a1: print(f'dlinnaotezka:{a-a1}')
+
+""
+
+import random.randint a = random.randint(100,999)
+for i int srt(a) :print(i)
+
+""
+
+a,b = b,a 
+
+
+""
+
+a,b = b,a
+
+""
+
+import radnom a = random.randint(2,16)o="whila a>" 0:o=d
+str(a % 2)+o a =2 // 2 print(o)
+
+""
+
+import random a = random.randint(2,16)o="d = whule a>0:o = str(a % 2") + o a =a // 2
+for i in o:d = d * 2  + int(i)
+print(d)
+
+
+""
+
+
+a = int(input("vveditechislo kotoroe nujno vozvesti: "))
+b = int(input("vveditechislokotoroepizdec: "))
+d = int(a)
+while b> 1: a = a * db = b - 1
+print(a)
